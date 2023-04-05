@@ -1,0 +1,16 @@
+my friends details
+1.anusha/ssc
+2.bargavi/ssc
+3.tejasswi/ssc
+4.sai/ssc
+5.jahnavi/inter
+6.meghana/inter
+7.hajju/inter
+8.devika/degree
+9.akhila/degree
+10.vineela/degree
+
+
+
+
+
